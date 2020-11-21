@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Docker error, no space left on device
+The error occurs when using `docker build` frequently on local machine.
 
 ### typical solution  
 
