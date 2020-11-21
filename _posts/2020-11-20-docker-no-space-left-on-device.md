@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Docker error, no space left on device
+A fairly common error that occurs when using docker build frequently.
 
 ### typical solution:
 `docker system prune [-af]`  
